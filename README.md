@@ -1,8 +1,8 @@
 👋 Hi, I'm Omkar Mahale
 
-I'm currently aspiring and sharpening my skills in **Data Science**, **Data Visualization**, and **Machine Learning**. I'm passionate about turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
+I'm currently aspiring and sharpening my skills in **Data Science**, **Data Visualization**, and **Machine Learning** and **Artificial Intelligence**. I'm passionate about turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
 
-🚀 What I'm Working On
+🚀 What I'm Worked On
 
 🤖 **Stress Detection Using Facial Recognition**  
  A project that uses computer vision and machine learning to detect stress based on facial expressions.
